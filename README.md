@@ -8,7 +8,7 @@ PhD Fellowship: "Fundação de Amparo a Pesquisa do Estado de São Paulo" (FAPES
 
 * Postdoc Fellowship: PD-FAPESP (Sao Paulo state foment’s program for post-doctoral training), full time (Jan/2015 – Dec/2016). Dept. of Biochemistry, Institute of Chemistry, University of Sao Paulo, Verjovski-Almeida Lab. Sao Paulo, SP, Brazil
 
-* Currently Stands as a postdoctoral fellow and bioinformatician member of Dr. Pedro Diniz’s and Dr. Brian Oakley’s research groups in the ollege of Veterinary Medicine at Western University of Health Sciences. Pomona, CA, USA.
+* Currently stands as a postdoctoral fellow and bioinformatician member of Dr. Pedro Diniz’s and Dr. Brian Oakley’s research groups in the ollege of Veterinary Medicine at Western University of Health Sciences. Pomona, CA, USA.
 
 --> For a list of my publications, please go to https://www.ncbi.nlm.nih.gov/pubmed/?term=Vasconcelos+EJ  
 
