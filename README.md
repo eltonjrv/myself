@@ -8,9 +8,9 @@ PhD Fellowship: Sao Paulo Research Foundation (FAPESP) – full time, (Sep/2006 
 
 * Postdoc Fellowship: PD-FAPESP (Sao Paulo Research Foundation foment program for post-doctoral research), full time (Jan/2015 – Dec/2016). Dept. of Biochemistry, Institute of Chemistry, University of Sao Paulo, Verjovski-Almeida Lab. Sao Paulo, SP, Brazil
 
-* Currently stands as a postdoctoral fellow and bioinformatician member of Dr. Pedro Diniz’s and Dr. Brian Oakley’s research groups in the College of Veterinary Medicine at Western University of Health Sciences. Pomona, CA, USA.
+* Currently stands as a postdoctoral fellow and bioinformatician member of Dr. Pedro Diniz’s and Dr. Brian Oakley’s research groups in the College of Veterinary Medicine at Western University of Health Sciences, Pomona, CA, USA.
 
---> For a list of my publications, please go to 
+--> For a list of my publications, please visit the following URL 
 https://www.ncbi.nlm.nih.gov/pubmed/?term=%22Vasconcelos+EJ%22+AND+2005%3A2017%5Bedat%5D
 
 --> Ad-hoc reviewer of the following journals: BMC Research Notes; BMC Bioinformatics; Vaccine; Journal of Biomedical Informatics; Infection, Genetics and Evolution.
