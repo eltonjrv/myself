@@ -6,7 +6,7 @@
 
 * Postdoc Fellowship: PDE-CNPq (Brazilian Federal Research Council foment program for post-doctoral training in foreign countries), full time (Jan/2013 – Dec/2014). Center for Infectious Disease Research, Myler Lab – Bioinformatics Core. Seattle, WA, USA.
 
-* Five years PhD degree on Cell and Molecular Biology at the University of Sao Paulo, School of Medicine of Ribeirao Preto, Department of Cell and Molecular Biology and Pathogenic Bioagents, obtained on Aug/2011.
+* Five years PhD degree in Cell and Molecular Biology at the University of Sao Paulo, School of Medicine of Ribeirao Preto, Department of Cell and Molecular Biology and Pathogenic Bioagents, obtained on Aug/2011.
 PhD Fellowship: Sao Paulo Research Foundation (FAPESP) – full time, (Sep/2006 – Ago/2011). University of Sao Paulo, School of Medicine of Ribeirao Preto, Department of Cell and Molecular Biology, Dr. Angela Cruz Lab. Ribeirao Preto, SP, Brazil.
 
 * Five years bachelor's degree (BSc) in Veterinary Medicine, Faculty of Veterinary from the Ceara State University (UECE) (stands in Brazil as a DVM), obtained in Dec/2005. Fortaleza, CE, Brazil.
@@ -16,6 +16,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/?term=%22Vasconcelos+EJ%22+AND+2005%3A2017%5
 
 --> Ad-hoc reviewer of the following journals: BMC Research Notes; BMC Bioinformatics; Vaccine; Journal of Biomedical Informatics; Infection, Genetics and Evolution.
 
---> Bioinformatics analyst programming on both PERL and R languages and Unix/Shell proficient.
+--> Bioinformatics analyst programming in both PERL and R languages and Unix/Shell proficient.
 
 Please see my CV (attached to this branch) for more details.
