@@ -19,3 +19,5 @@ https://www.ncbi.nlm.nih.gov/pubmed/?term=%22Vasconcelos+EJ%22+AND+2005%3A2017%5
 --> Bioinformatics analyst programming in both PERL and R languages and Unix/Shell proficient.
 
 Please see my CV (attached to this branch) for more details.
+
+Hobby: Playing samba, bossa and smooth jazz on his acoustic guitars and electric basses (https://www.youtube.com/watch?v=UNJ7OHkgZFo)
