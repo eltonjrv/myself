@@ -20,4 +20,4 @@ https://www.ncbi.nlm.nih.gov/pubmed/?term=%22Vasconcelos+EJ%22+AND+2005%3A2017%5
 
 Please see my CV (attached to this branch) for more details.
 
-Hobby: Playing samba, bossa and smooth jazz on his acoustic guitars and electric basses (https://www.youtube.com/watch?v=UNJ7OHkgZFo)
+Hobby: Playing samba, bossa and smooth jazz on acoustic guitars and electric basses.
