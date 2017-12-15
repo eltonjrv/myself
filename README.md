@@ -9,7 +9,7 @@
 * Five years PhD degree in Cell and Molecular Biology at the University of Sao Paulo, School of Medicine of Ribeirao Preto, Department of Cell and Molecular Biology and Pathogenic Bioagents, obtained on Aug/2011.
 PhD Fellowship: Sao Paulo Research Foundation (FAPESP) – full time, (Sep/2006 – Aug/2011), at Dr. Angela Cruz Lab. Ribeirao Preto, SP, Brazil.
 
-* Five years bachelor's degree (BSc) in Veterinary Medicine, Faculty of Veterinary from the Ceara State University (UECE) (stands in Brazil as a DVM), obtained in Dec/2005. Fortaleza, CE, Brazil.
+* Five years bachelor's degree (BSc) in Veterinary Medicine, School of Veterinary Medicine at the Ceara State University (UECE) (stands in Brazil as a DVM), obtained in Dec/2005. Fortaleza, CE, Brazil.
 
 --> For a list of my publications, please visit the following URL: 
 https://www.ncbi.nlm.nih.gov/pubmed/?term=Vasconcelos%20EJ%5Bau%5D%20OR%20Rosas%20de%20Vasconcelos%20EJ%5Bau%5D%20AND%202005:2017%5Bedat%5D
