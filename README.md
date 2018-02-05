@@ -12,7 +12,7 @@ PhD Fellowship: Sao Paulo Research Foundation (FAPESP) – full time, (Sep/2006 
 * Five years bachelor's degree (BSc) in Veterinary Medicine, School of Veterinary Medicine at the Ceara State University (UECE) (stands in Brazil as a DVM), obtained in Dec/2005. Fortaleza, CE, Brazil.
 
 --> For a list of my publications, please visit the following URL: 
-https://www.ncbi.nlm.nih.gov/pubmed/?term=Vasconcelos%20EJ%5Bau%5D%20OR%20Rosas%20de%20Vasconcelos%20EJ%5Bau%5D%20AND%202005:2017%5Bedat%5D
+https://www.ncbi.nlm.nih.gov/pubmed/?term=Vasconcelos+EJ%5Bau%5D+OR+Rosas+de+Vasconcelos+EJ%5Bau%5D+AND+2005%3A2018%5Bedat%5D
 
 --> Ad-hoc reviewer of the following journals: BMC Research Notes; BMC Bioinformatics; Vaccine; Journal of Biomedical Informatics; Infection, Genetics and Evolution.
 
