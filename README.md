@@ -1,6 +1,6 @@
 # Biography
 
-* Currently stands as a postdoctoral fellow and bioinformatician member of Dr. Pedro Diniz' and Dr. Brian Oakley’s research groups in the College of Veterinary Medicine at Western University of Health Sciences, Pomona, CA, USA.
+* Currently stands as a postdoctoral fellow and bioinformatician member of Dr. Pedro Diniz' and Dr. Brian Oakley’s research groups in the College of Veterinary Medicine at Western University of Health Sciences, Pomona, CA, USA. Also acts as a facilitator associate veterinarian (FAV) on PBL teaching sessions for both 1st and 2nd year students at the same College.
 
 * Postdoc Fellowship: PD-FAPESP (Sao Paulo Research Foundation foment program for post-doctoral research), full time (Jan/2015 – Dec/2016). Dept. of Biochemistry, Institute of Chemistry, University of Sao Paulo, Verjovski-Almeida Lab. Sao Paulo, SP, Brazil
 
