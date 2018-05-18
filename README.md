@@ -1,4 +1,4 @@
-# Biography
+# Academic Biography
 
 * Currently stands as a postdoctoral fellow and bioinformatician member of Dr. Pedro Diniz' and Dr. Brian Oakley’s research groups in the College of Veterinary Medicine at Western University of Health Sciences, Pomona, CA, USA. Also acts as a facilitating assistant veterinarian (FAV) in PBL teaching sessions for both 1st and 2nd year students at the same College.
 
