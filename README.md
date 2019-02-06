@@ -1,8 +1,10 @@
 # Academic Biography
 
-* Currently stands as a postdoctoral researcher and bioinformatician member of both Dr. Pedro Diniz' and Dr. Brian Oakley’s research groups in the College of Veterinary Medicine at Western University of Health Sciences, Pomona, CA, USA. Also acts as a facilitator/tutor in PBL teaching sessions for both 1st and 2nd year students at the same College.
+* Currently stands as a Bioinformatics Research Officer at the Leeds Omics, School of Molecular and Cell Biology, Faculty of Biological Sciences, University of Leeds, Leeds, UK.
 
-* Postdoc Fellowship: PD-FAPESP (Sao Paulo Research Foundation foment program for post-doctoral research), full time (Jan/2015 – Dec/2016). Dept. of Biochemistry, Institute of Chemistry, University of Sao Paulo, Verjovski-Almeida Lab. Sao Paulo, SP, Brazil
+* Postdoctoral researcher and facilitator/tutor in PBL teaching sessions for both 1st and 2nd year students in the College of Veterinary Medicine at Western University of Health Sciences, Pomona, CA, USA. Member of both Diniz Lab and Oakley Lab. Full time (Jan/2017 - Jan/2019).
+
+* Postdoc Fellowship: PD-FAPESP (Sao Paulo Research Foundation foment program for post-doctoral research), full time (Jan/2015 – Dec/2016). Dept. of Biochemistry, Institute of Chemistry, University of Sao Paulo, Verjovski-Almeida Lab. Sao Paulo, SP, Brazil.
 
 * Postdoc Fellowship: PDE-CNPq (Brazilian Federal Research Council foment program for post-doctoral training in foreign countries), full time (Jan/2013 – Dec/2014). Center for Infectious Disease Research, Myler Lab – Bioinformatics Core. Seattle, WA, USA.
 
