@@ -1,6 +1,6 @@
 # Academic Biography
 
-* Currently stands as a Bioinformatics Research Officer at [*Leeds Omics*](http://www.leedsomics.org/), University of Leeds, Leeds, UK.
+* Currently stands as a Bioinformatics Research Officer at [*Leeds Omics*](http://www.leedsomics.org/), University of Leeds, United Kingdom.
 
 * Postdoctoral researcher and facilitator/tutor in PBL teaching sessions for both 1st and 2nd year students in the College of Veterinary Medicine at Western University of Health Sciences, Pomona, CA, USA. Member of both Diniz Lab and Oakley Lab. Full time (Jan/2017 - Jan/2019).
 
