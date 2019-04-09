@@ -16,6 +16,7 @@ PhD Fellowship: Sao Paulo Research Foundation (FAPESP) – full time, (Sep/2006 
 --> For a list of my publications, please visit this [PubMed URL](https://www.ncbi.nlm.nih.gov/pubmed/?term=(Vasconcelos+EJ%5Bau%5D+OR+Vasconcelos+EJR%5Bau%5D+OR+Rosas+de+Vasconcelos+EJ%5Bau%5D)+AND+2005%3A2025%5Bedat%5D).
 
 **Add-ons**
+
 --> Review Editor of *Frontiers in Genetics*
 
 --> *Ad hoc* reviewer of the following journals: BMC Research Notes; BMC Bioinformatics; Vaccine; Journal of Biomedical Informatics; Infection, Genetics and Evolution; PLoS One.
