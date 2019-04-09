@@ -17,6 +17,8 @@ PhD Fellowship: Sao Paulo Research Foundation (FAPESP) – full time, (Sep/2006 
 
 --> *Ad hoc* reviewer of the following journals: BMC Research Notes; BMC Bioinformatics; Vaccine; Journal of Biomedical Informatics; Infection, Genetics and Evolution; PLoS One.
 
+--> Review Editor of *Frontiers in Genetics*
+
 --> Bioinformatics analyst programming in both PERL and R languages, and Unix/Shell proficient.
 
 Please see my CV (pdf file attached to this branch) for more details.
