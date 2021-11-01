@@ -1,6 +1,6 @@
 # Academic Biography
 
-* Currently stands as a Bioinformatics Research Officer at [*Leeds Omics*](http://www.leedsomics.org/), University of Leeds, United Kingdom.
+* Currently stands as a Bioinformatics Research Officer at [*Leeds Omics*](https://omics.leeds.ac.uk/), University of Leeds, United Kingdom.
 
 * Postdoctoral researcher and facilitator/tutor in PBL teaching sessions for both 1st and 2nd year students in the College of Veterinary Medicine at Western University of Health Sciences, Pomona, CA, USA. Member of both Diniz Lab and Oakley Lab. Full time (Jan/2017 - Jan/2019).
 
@@ -17,7 +17,7 @@ PhD Fellowship: Sao Paulo Research Foundation (FAPESP) – full time, (Sep/2006 
 
 --> Review Editor of the *Frontiers in Genetics* journal
 
---> *Ad hoc* reviewer of the following journals: BMC Research Notes; BMC Bioinformatics; BMC Veterinary Research; Vaccine; Journal of Biomedical Informatics; Infection, Genetics and Evolution; Veterinary Microbiology; PLoS One; MDPI Animals; MDPI Biology; MDPI Life; Annals of Human Genetics.
+--> *Ad hoc* reviewer of the following journals: BMC Research Notes; BMC Bioinformatics; BMC Veterinary Research; Vaccine; Journal of Biomedical Informatics; Infection, Genetics and Evolution; Veterinary Microbiology; PLoS One; MDPI Animals; MDPI Biology; MDPI Life; Annals of Human Genetics; Frontiers in Molecular Biosciences.
 
 --> Bioinformatics analyst programming in both PERL and R languages, and Unix/Shell proficient.
 
