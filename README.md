@@ -17,7 +17,7 @@ PhD Fellowship: Sao Paulo Research Foundation (FAPESP) – full time, (Sep/2006 
 
 --> Review Editor of the *Frontiers in Genetics* journal
 
---> *Ad hoc* reviewer of the following journals: BMC Research Notes; BMC Bioinformatics; BMC Veterinary Research; Vaccine; Journal of Biomedical Informatics; Infection, Genetics and Evolution; Veterinary Microbiology; PLoS One; MDPI Animals; MDPI Biology; MDPI Life; Annals of Human Genetics; Frontiers in Molecular Biosciences.
+--> *Ad hoc* reviewer of the following journals: BMC Research Notes; BMC Bioinformatics; BMC Veterinary Research; Vaccine; Journal of Biomedical Informatics; Infection, Genetics and Evolution; Veterinary Microbiology; PLoS One; MDPI Animals; MDPI Biology; MDPI Life; MDPI Viruses; Annals of Human Genetics; Frontiers in Molecular Biosciences.
 
 --> Carpentries instructor.
 
