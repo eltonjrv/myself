@@ -21,7 +21,7 @@ PhD Fellowship: Sao Paulo Research Foundation (FAPESP) – full time, (Sep/2006 
 
 --> Certified [Data Carpentry](https://datacarpentry.org/) instructor.
 
---> For a list of my publications, please visit this [PubMed URL]https://pubmed.ncbi.nlm.nih.gov/?term=%28Vasconcelos+EJ%5Bau%5D+OR+Vasconcelos+EJR%5Bau%5D+OR+Rosas+de+Vasconcelos+EJ%5Bau%5D+OR+Rosas+Vasconcelos+EJ%5Bau%5D%29+AND+2005%3A2035%5Bedat%5D&sort=date.
+--> For a list of my publications, please visit this [PubMed URL](https://pubmed.ncbi.nlm.nih.gov/?term=%28Vasconcelos+EJ%5Bau%5D+OR+Vasconcelos+EJR%5Bau%5D+OR+Rosas+de+Vasconcelos+EJ%5Bau%5D+OR+Rosas+Vasconcelos+EJ%5Bau%5D%29+AND+2005%3A2035%5Bedat%5D&sort=date).
 
 Please see my CV (pdf file attached to this branch) for more details.
 
