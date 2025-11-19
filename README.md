@@ -17,7 +17,7 @@ PhD Fellowship: Sao Paulo Research Foundation (FAPESP) – full time, (Sep/2006 
 
 --> Review Editor of the *Frontiers in Genetics* journal
 
---> *Ad hoc* reviewer of the following journals: BMC Research Notes; BMC Bioinformatics; BMC Veterinary Research; Vaccine; Journal of Biomedical Informatics; Infection, Genetics and Evolution; Veterinary Microbiology; PLoS One; MDPI Animals; MDPI Biology; MDPI Life; MDPI Viruses; MDPI IJMS; Annals of Human Genetics; Frontiers in Molecular Biosciences; Frontiers in Cellular and Infection Microbiology; RNA Biology; Nature Scientific Data; Nature Scientific Reports.
+--> *Ad hoc* reviewer of the following journals: Annals of Human Genetics; BMC Bioinformatics; BMC Microbiology; BMC Neurology; BMC Research Notes; BMC Veterinary Research; Frontiers in Cellular and Infection Microbiology; Frontiers in Molecular Biosciences; Infection, Genetics and Evolution; Journal of Biomedical Informatics; MDPI Animals; MDPI Biology; MDPI IJMS; MDPI Life; MDPI Viruses; PLoS One; RNA Biology; Scientific Data (Nature); Scientific Reports (Nature); Vaccine; Veterinary Microbiology.
 
 --> Certified [Data Carpentry](https://datacarpentry.org/) instructor.
 
